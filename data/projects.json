@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "name": "art muse",
+        "image": "/artmuse/2.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Art muse is an art gallery that aims to curate and showcase a diverse range of contemporary art works. Art muse aims to attract a diverse demographic that appreciates the fusion traditional and modern art form.",
+        "goal": "crafting an elegance brand identity, the overall aesthetic exudes sophistication and grace Reflecting the elevated nature of the gallery.",
+        "images": [],
+        "primary": "",
+        "secondary": "",
+        "accent": "",
+        "primary-font-color": "",
+        "secondary-font-color": ""
+    },
+    {
+        "id": 2,
+        "name": "babble",
+        "image": "/babble/1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "blossom",
+        "image": "/blossom/1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "cool serenity",
+        "image": "/cool serenity/1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "honey coated",
+        "image": "/honey coated/1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "nava cosmetics",
+        "image": "/nava/1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "nibble",
+        "image": "/nibble/2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "lumos",
+        "image": "/lumos/1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "vigor swish",
+        "image": "/vigor swish/1.jpg"
+    }
+]
