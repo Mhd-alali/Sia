@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Home() {
 
   return (
-    <main className="container mx-auto">
+    <>
       <h3 className="uppercase text-6xl md:text-8xl text-center center pt-32">
         designing <span className='font-rony text-secondary'> bold</span> & <span className='font-rony text-primary'>engaging</span> brands
       </h3>
@@ -51,20 +51,19 @@ export default function Home() {
         </div>
         <div className="col-span-7 md:col-span-4 space-y-4">
           <div className="relative child:hover:rotate-0 child:transition-transform child:duration-500">
-            <Image className="mx-auto md:absolute md:left-36 md:rotate-6 rounded-3xl" width='250' height='250' alt="nigga" src="/artmuse/1.jpg"/>
+            <Image className="mx-auto md:absolute md:left-36 md:rotate-6 rounded-3xl" width='250' height='250' alt="nigga" src="/artmuse/1.jpg" />
             <p className='text-center md:absolute md:left-24 md:top-40 md:rotate-6 text-3xl font-rony'>ART MUSE</p>
           </div>
           <div className="relative child:hover:rotate-0 child:transition-transform child:duration-500">
-            <Image className="mx-auto transition-transform duration-500 md:absolute md:right-10 md:top-20 md:rotate-6 rounded-3xl" width='250' height='250' alt="nigga" src="/nibble/1.jpg"/>
+            <Image className="mx-auto transition-transform duration-500 md:absolute md:right-10 md:top-20 md:rotate-6 rounded-3xl" width='250' height='250' alt="nigga" src="/nibble/1.jpg" />
             <p className='text-center md:absolute md:right-10 md:top-64 md:rotate-6 text-3xl font-rony'>NIBBLE</p>
           </div>
           <div className="relative child:hover:rotate-0 child:transition-transform child:duration-500">
-            <Image className="mx-auto transition-transform duration-500 md:absolute md:left-56 md:top-72 md:-rotate-6 rounded-3xl" width='230' height='250' alt="nigga" src="/nava/1.jpg"/>
+            <Image className="mx-auto transition-transform duration-500 md:absolute md:left-56 md:top-72 md:-rotate-6 rounded-3xl" width='230' height='250' alt="nigga" src="/nava/1.jpg" />
             <p className='text-center md:absolute md:left-80 md:top-[27.5rem] md:-rotate-6 text-3xl font-rony'>NAVA COSMETICS</p>
           </div>
         </div>
       </div>
-      <div className="h-96"></div>
-    </main>
+    </>
   );
 }

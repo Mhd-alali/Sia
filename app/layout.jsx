@@ -16,7 +16,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${raleway.variable} ${forte.variable} ${rony.variable}`}>
         <Nav />
-        {children}
+        <main className="container mx-auto">
+          {children}
+        </main>
       </body>
     </html>
   );
