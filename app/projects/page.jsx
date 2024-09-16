@@ -1,6 +1,7 @@
 import Button from "@/components/Button";
 import { getProjects } from "@/data/data";
 import Image from "next/image";
+import Link from "next/link";
 
 export default async function Projects() {
     const projects = await getProjects();
@@ -18,12 +19,12 @@ export default async function Projects() {
             <div className="flex flex-wrap items-center justify-center gap-8">
                 {
                     projects.map((project) =>
-                        <div key={project.id} className={`relative w-full md:max-w-[calc(50%-1rem)] aspect-video`} >
+                        <Link key={project.id} href={`/project/${project.id}`} className={`relative w-full md:max-w-[calc(50%-1rem)] aspect-video`}>
                             <Image alt={project.name} src={project.image} fill className="absolute top-0 left-0 -z-10 object-cover" />
                             <div className="absolute top-0 left-0 bg-gray-950 opacity-0 hover:opacity-75 transition-opacity duration-200 w-full h-full text-2xl flex items-center justify-center">
                                 {project.name} - View Project
                             </div>
-                        </div>
+                        </Link>
                     )
                 }
             </div>

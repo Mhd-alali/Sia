@@ -11,10 +11,10 @@ export async function getProjects() {
 /**
  * 
  * @param {number} id 
- * @returns {{id : number ,name : string ,image : string ,tags : string[] ,overview : string ,goal : string ,images : string[] ,primary : string ,secondary : string ,accent : string ,primary-font-color : string ,secondary-font-color}}
+ * @returns {{id : number ,name : string ,image : string ,tags : string[] ,overview : string ,goal : string,card : string ,images : string[]}}
  */
 export async function getProject(id) {
-    const projects = await getProjects()
-    const project = projects.filter((proj) => proj.id === +id)[0]
-    return project
+    const projects = await getProjects();
+    const project = projects.filter((proj) => proj.id === +id)[0];
+    return project;
 }

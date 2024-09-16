@@ -10,51 +10,207 @@
         ],
         "overview": "Art muse is an art gallery that aims to curate and showcase a diverse range of contemporary art works. Art muse aims to attract a diverse demographic that appreciates the fusion traditional and modern art form.",
         "goal": "crafting an elegance brand identity, the overall aesthetic exudes sophistication and grace Reflecting the elevated nature of the gallery.",
-        "images": [],
-        "primary": "",
-        "secondary": "",
-        "accent": "",
-        "primary-font-color": "",
-        "secondary-font-color": ""
+        "card": "The elegant logo, design, dynamic color palette reflect the vibrancy of contemporary art. The customized typography strike a balance between modernity and sophistication.",
+        "images": [
+            "/artmuse/12.jpg",
+            "/artmuse/2.jpg",
+            "/artmuse/15.jpg",
+            "/artmuse/16.jpg",
+            "/artmuse/14.jpg",
+            "/artmuse/19.jpg",
+            "/artmuse/20.jpg",
+            "/artmuse/10.jpg",
+            "/artmuse/8.jpg",
+            "/artmuse/6.jpg",
+            "/artmuse/27.jpg",
+            "/artmuse/24.jpg"
+        ]
     },
     {
         "id": 2,
         "name": "babble",
-        "image": "/babble/1.jpg"
+        "image": "/babble/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Babble is a sparkling water brand packed with lots of natural fruity flavours to choose from, 'Babble' captures the lively spirit and effervescent energy of the sparkling water. Just like the lively babble of a bubbling stream,",
+        "goal": "craft a strong brand identity for 'Babble' sparkling water involves establishing a distinct and memorable image that resonates with consumers and sets the brand apart in the market. ",
+        "card": "evoke emotions and create a meaningful connection with consumers. By tapping into feelings of joy, refreshment, and sociability. a unique logo,color palette, and packaging that stand out on shelves were designed to convey the brand's refreshing and lively personality.",
+        "images": [
+            "/babble/39.jpg",
+            "/babble/1.jpg",
+            "/babble/41.jpg",
+            "/babble/45.jpg",
+            "/babble/35.jpg",
+            "/babble/49.jpg",
+            "/babble/47.jpg",
+            "/babble/37.jpg",
+            "/babble/24.jpg",
+            "/babble/22.jpg",
+            "/babble/23.jpg",
+            "/babble/16.jpg"
+        ]
     },
     {
         "id": 3,
         "name": "blossom",
-        "image": "/blossom/1.jpg"
+        "image": "/blossom/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Blossom are a floristry that specialized in fresh, vibrant and unique arranged flowers to boost one’s mood and get them feeling loved.",
+        "goal": "crafting a brand that represent  “BLOSSOM” personality. the brand exudes timeless elegance and sophistication with a refined color palette, elegant typography, and minimalist aesthetic.",
+        "card": "evoke the beauty and serenity of a blooming garden. This nature-inspired design approach will resonate with those who appreciate the beauty of flowers.",
+        "images": [
+            "/blossom/1.jpg",
+            "/blossom/45.jpg",
+            "/blossom/4.jpg",
+            "/blossom/6.jpg",
+            "/blossom/22.jpg",
+            "/blossom/11.jpg",
+            "/blossom/14.jpg",
+            "/blossom/3.jpg",
+            "/blossom/21.jpg",
+            "/blossom/31.jpg",
+            "/blossom/7.jpg",
+            "/blossom/51.jpg"
+        ]
     },
     {
         "id": 4,
         "name": "cool serenity",
-        "image": "/cool serenity/1.jpg"
+        "image": "/cool serenity/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Cool serenity is an elegant and modern ice cream brand that seeks to deliver a delightful ans indulgent experience to it’s customers.",
+        "goal": "crafting an elegance brand identity, that  embodies the essence of serenity and comfort, combining the cool and refreshing qualities of ice cream. ",
+        "card": "The elegant and modern logo with the customization to the lettering that corporate comfort and cool ice cream elements. reflecting the brand’s luxurious and elegant personality.",
+        "images": [
+            "/cool serenity/1.jpg",
+            "/cool serenity/4.jpg",
+            "/cool serenity/6.jpg",
+            "/cool serenity/2.jpg",
+            "/cool serenity/10.jpg",
+            "/cool serenity/8.jpg",
+            "/cool serenity/12.jpg",
+            "/cool serenity/13.jpg",
+            "/cool serenity/30.jpg",
+            "/cool serenity/21.jpg",
+            "/cool serenity/18.jpg",
+            "/cool serenity/31.jpg"
+        ]
     },
     {
         "id": 5,
         "name": "honey coated",
-        "image": "/honey coated/1.jpg"
+        "image": "/honey coated/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Honey coated is a Guilty free Vegan Sweets brand, they aim to bring the best Vegan, Plant-based, Organic, Natural and Free from products and fantastic gifts to you and your loved one’s.",
+        "goal": "crafting an unique brand identity that speaks to the correct target audience. having a consistent brand identity will help with brand recognition. ",
+        "card": "The hand drawn logo was created to give the brand a sense fo handmade and natural,which fits in nicely with it being a vegan brand. the use of fun illustrations to create a fun and exciting feeling to the brand.",
+        "images": [
+            "/honey coated/4.jpg",
+            "/honey coated/2.jpg",
+            "/honey coated/26.jpg",
+            "/honey coated/23.jpg",
+            "/honey coated/28.jpg",
+            "/honey coated/31.jpg",
+            "/honey coated/34.jpg",
+            "/honey coated/3.jpg",
+            "/honey coated/14.jpg",
+            "/honey coated/13.jpg",
+            "/honey coated/32.jpg",
+            "/honey coated/24.jpg"
+        ]
     },
     {
         "id": 6,
         "name": "nava cosmetics",
-        "image": "/nava/1.jpg"
+        "image": "/nava/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Nava Cosmetics is a dynamic and trend-setting brand that specializes in decorative cosmetics. With a commitment to empowering womans to express their unique beauty.",
+        "goal": "crafting a brand that is sleek, modern, dynamic, and energetic to showcase the spirit of the nava. ",
+        "card": "The brand design features a distinctive logo suite, dynamic color palette and so much more that conveys both sophistication and modernity and gives a sense of movement.",
+        "images": [
+            "/nava/6.jpg",
+            "/nava/2.jpg",
+            "/nava/25.jpg",
+            "/nava/4.jpg",
+            "/nava/8.jpg",
+            "/nava/7.jpg",
+            "/nava/16.jpg",
+            "/nava/20.jpg",
+            "/nava/1.jpg",
+            "/nava/21.jpg",
+            "/nava/22.jpg",
+            "/nava/18.jpg"
+        ]
     },
     {
         "id": 7,
         "name": "nibble",
-        "image": "/nibble/2.jpg"
+        "image": "/nibble/2.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Nibble is a brownie brand that takes indulgence to a whole new level. There delectable brownies are meticulously crafted with the perfect balance of rich, fudgy goodness ans heavenly flavors. ",
+        "goal": "crafting a vibrant and unique visual identity for the company. and develop a brand that sets them apart from competitors by creating a design that’s engaging and fun.  ",
+        "card": "A fun, custom font to represent the playful side behind eating the delicious brownies. Brand illustration were designed to look like brownie pieces that have mouthe given the brand more personalty.",
+        "images": [
+            "/nibble/23.jpg",
+            "/nibble/28.jpg",
+            "/nibble/19.jpg",
+            "/nibble/8.jpg",
+            "/nibble/4.jpg",
+            "/nibble/25.jpg",
+            "/nibble/27.jpg",
+            "/nibble/35.jpg",
+            "/nibble/33.jpg",
+            "/nibble/10.jpg",
+            "/nibble/11.jpg",
+            "/nibble/17.jpg"
+        ]
     },
     {
         "id": 8,
         "name": "lumos",
-        "image": "/lumos/1.jpg"
-    },
-    {
-        "id": 9,
-        "name": "vigor swish",
-        "image": "/vigor swish/1.jpg"
+        "image": "/lumos/1.jpg",
+        "tags": [
+            "brand strategy",
+            "visual identity",
+            "packaging"
+        ],
+        "overview": "Lumos is an upcoming skincare brand that emphasizes natural cruelty-free and eco-conscious beauty products. Lumos aims to help womans achieve radiant and healthy skin through the power of nature.",
+        "goal": "crafting a brand that represent “LUMOS” personality. That align with their ethical and ecological values.",
+        "card": "The brand design features an unique logo suite, calm and refreshing color palette and so much more that conveys both nature and beauty and showcases Lumos spirit.",
+        "images": [
+            "/lumos/1.jpg",
+            "/lumos/12.jpg",
+            "/lumos/28.jpg",
+            "/lumos/9.jpg",
+            "/lumos/2.jpg",
+            "/lumos/14.jpg",
+            "/lumos/16.jpg",
+            "/lumos/19.jpg",
+            "/lumos/15.jpg",
+            "/lumos/18.jpg"
+        ]
     }
 ]
